@@ -1,6 +1,6 @@
 {
   "name" : "otto-base",
-  "version" : "0.0.1",
+  "version" : "0.0.0",
   "repository" : "https://github.com/ottojs/base.git",
   "dependencies" : {},
   "devDependencies" : {
