@@ -7,7 +7,7 @@ require('should');
 // Subject
 var otto_module = require('../lib/index.js');
 
-describe('Otto Module', function () {
+describe('Otto Example Module', function () {
 
   describe('.method()', function () {
 

@@ -1,2 +1,2 @@
-Otto Base
-=========
+Otto Example Module
+===================
