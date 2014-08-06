@@ -2,6 +2,7 @@
   "name" : "otto-base",
   "version" : "0.0.0",
   "repository" : "https://github.com/ottojs/base.git",
+  "main" : "./lib/index.js",
   "dependencies" : {},
   "devDependencies" : {
     "jshint"    : "2.5.2",
