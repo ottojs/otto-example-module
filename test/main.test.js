@@ -5,14 +5,14 @@
 require('should');
 
 // Subject
-var module = require('../lib/index.js');
+var subject = require('../lib/index.js');
 
 describe('Example Module', function () {
 
   describe('.method()', function () {
 
     it('should return true', function () {
-      var result = module.method();
+      var result = subject.method();
       result.should.equal(true);
     });
 
